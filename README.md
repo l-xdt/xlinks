@@ -44,7 +44,7 @@ Well, it's a launcher! No PS, just a launcher.
 
 - Open your Xiotim Links, just uses the GitHub icon..
 
-- **Written in HTML, CSS, JSON and some questionable JavaScript**
+- **Written in HTML, CSS, JSON and some questionable JavaScript..**
 
 
 ## Support
