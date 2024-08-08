@@ -1,0 +1,14 @@
+{
+    "name": "xLinks",
+    "version": "1.0.0",
+    "description": "A launcher for all your XioTim Needs",
+    "manifest_version": 3,
+    "author": "The Xiotim Development Team",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "xLinks"
+    },
+  "icons": {
+    "128": "favicon.png"
+  }
+}
