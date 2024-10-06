@@ -1,4 +1,3 @@
-
 # xLinks
 
 A launcher of Xiotim Links leading up to the last repository.
@@ -7,17 +6,15 @@ The assets can be found, on imgur! So click the links in the code.
 
 ## Acknowledgements
 
- - Huge shout-out to my youngest project as of writing this: [XInterest](https://github.com/l-xdt/xinterest/) & [this project](https://github.com/l-xdt/xLinks/)
+- Huge shout-out to my youngest project as of writing this: [XInterest](https://github.com/l-xdt/xinterest/) & [this project](https://github.com/l-xdt/xLinks/)
 
- - A huge help in this project: [DiffChecker](https://www.diffchecker.com)
-
+- A huge help in this project: [DiffChecker](https://www.diffchecker.com)
 
 ## Authors
 
 - [LeidenSchaft-Xiotim Development Team](https://www.github.com/l-xdt/)
 
 - [Alvin Maranx, II ツ (Avun)](https://github.com/avunii/)
-
 
 ## Features
 
@@ -39,16 +36,13 @@ Well, it's a launcher! No PS, just a launcher.
 
 ![Installation](Screenshots/install.gif)
 
-
 ## Roadmap
 
 - Open your Xiotim Links, just uses the GitHub icon..
 
-- **Written in HTML, CSS, JSON and some questionable JavaScript..**
-
+- **Written in HTML, CSS, JSON and some questionable JavaScript**
 
 ## Support
-
 
 For support, reach out to us via either of our emails: [this one](mailto:trowesigames@gmail.com) or [this one](mailto:leidenschaft.tech@hotmail.com) or join our Discord server: which is not up as of writing this.
 
@@ -58,7 +52,6 @@ This still applies to feedback aswell, Whether you want to give us positive word
 
 Send away: [here](mailto:trowesigames@gmail.com) or [here](mailto:leidenschaft.tech@hotmail.com).
 
-
 ## FAQ
 
 **Only one question..**
@@ -66,7 +59,6 @@ Send away: [here](mailto:trowesigames@gmail.com) or [here](mailto:leidenschaft.t
 #### Can I modify this to fit my needs?
 
 Yeah! That is why we make these repositories for. For you! To tinker and to try new things (but use the unpacked please).
-
 
 ## Used By
 
@@ -80,9 +72,7 @@ This project is used by the following companies:
 
 - XDT-noHesi.
 
-
 ## Related
-
 
 Here are some related projects:
 
@@ -114,13 +104,10 @@ Here are some related projects:
 
 - [XLinks](https://github.com/l-xdt/xLinks/)
 
-
 ## Documentation
 
 - Coming soon! Hopefully!
 
-
 ## API Reference
 
 Nope, no APIs except Google ones. If there are I wil update this.
-
